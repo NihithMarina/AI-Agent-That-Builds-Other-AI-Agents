@@ -1,0 +1,5 @@
+{
+  "name": "AI Agent Builder",
+  "description": "A meta-AI agent platform that autonomously designs, configures, and deploys specialized AI agents based on high-level goals and requirements.",
+  "requestFramePermissions": []
+}
